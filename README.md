@@ -3,6 +3,7 @@
 A package for common use tools by the Dev team at GP Joule Connect.
 
 ## Tools:
+. Decorators:
 - exectime: decorator that prints the execution time of a function 
 
 ## Installation
